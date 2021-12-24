@@ -1,0 +1,13 @@
+Git Commands
+git init :Initialed the repository
+git add --a : All file in the directory added to staged
+git commit -m : Commit all files in the directory 
+git log : shows all logs commited in commit
+git log option : -p , --pretty , --pretty '%h' 'an'
+git commit -a -m : skip staged step 
+git rm <filename>: delete files 
+git mv <filename>: rename files
+touch <filename>: to create file in the directory
+git restore --staged <filename>: unstaged the file
+git --diff : show differnce in the commit 
+
