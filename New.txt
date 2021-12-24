@@ -1,6 +1,0 @@
-Hello World 
-Git Learning Started>>>>
-Hello Git and GitHub
-Working Dir and Staging Area
-Skipping Staging Area
-Checking New Area
