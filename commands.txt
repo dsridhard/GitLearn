@@ -10,4 +10,4 @@ git mv <filename>: rename files
 touch <filename>: to create file in the directory
 git restore --staged <filename>: unstaged the file
 git --diff : show differnce in the commit 
-git checkout -- <filename>:unmodified to the previous version of file ("undo command")
+git checkout -- <filename>:unmodified to the previous version of file ("undo command"):-option : "checkout -f"
